@@ -1,0 +1,3 @@
+loop: 4-10
+jump: 8
+10 fps
